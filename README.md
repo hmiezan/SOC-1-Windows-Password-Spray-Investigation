@@ -69,3 +69,6 @@ Successful authentication was observed after multiple failed attempts. Potential
 #### Lessons Learned
 
 This lab demonstrated how Security Onion and Elastic can be used to identify credential attacks against Windows endpoints and how Event IDs 4625 and 4624 can be correlated to identify potential account compromise.
+
+#### Incident Report
+<a href="https://1drv.ms/w/c/b5bf0dbc64611adf/IQDhfr2o9n6lR54Y0ZEFEkgqAcQwPTLT63sCUDWVw6_PZp4?e=crK3vT">See report </a>
